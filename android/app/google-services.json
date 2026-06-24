@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "876215292126",
+    "project_id": "ledger-6e6c4",
+    "storage_bucket": "ledger-6e6c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876215292126:android:92c1c54a120c1d6034b24f",
+        "android_client_info": {
+          "package_name": "com.example.ledgr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876215292126-hkrokhudellsdujogggiuiqc5mcq7h1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ledgr",
+            "certificate_hash": "b50c789eade47f9223ec6841fb6ccae513bf4a3c"
+          }
+        },
+        {
+          "client_id": "876215292126-96lvm2c40vtgve7pjjsnabgocgd6ed5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd28PAYQEcd1tk57jWRY2OgLrSf-OjGpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876215292126-96lvm2c40vtgve7pjjsnabgocgd6ed5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876215292126-o8euu3heo4sr130heij7i3vj91fu2nvp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ledgr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
