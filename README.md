@@ -26,7 +26,9 @@
 
 | Home Dashboard | Analytics | Budgets | Settings |
 |:-:|:-:|:-:|:-:|
-| ![Home](docs/screenshots/home.png) | ![Analytics](docs/screenshots/analytics.png) | ![Budgets](docs/screenshots/budgets.png) | ![Settings](docs/screenshots/settings.png) |
+| ![Home](docs/screenshots/home.png) | ![Analytics](docs/screenshots/analytics.png) | ![Budgets](docs/screenshots/budgets.png) | ![Settings](docs/screenshots/settings.png) | | Intro | Add Expense | Budget Planner | Settings |
+|:-:|:-:|:-:|:-:|
+| ![Intro](docs/screenshots/intro.png) | ![Add](docs/screenshots/add_expense.png) | ![Budget](docs/screenshots/budgets.png) | ![Settings](docs/screenshots/settings_currency.png) |
 
 </div>
 
@@ -216,8 +218,8 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@YOUR_USERNAME](https://github.com/zahra01-m)
+- LinkedIn: [your-linkedin](https://linkedin.com/in/zahra-mushtaq-)
 
 ---
 
