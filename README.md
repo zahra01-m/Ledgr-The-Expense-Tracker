@@ -17,18 +17,43 @@
 
 <br/>
 
-<!--
-  ┌──────────────────────────────────────────────────────────┐
-  │  SCREENSHOTS — replace these placeholders with real PNGs │
-  │  Recommended: 3-4 screenshots, 390×844px (iPhone 14 size)│
-  └──────────────────────────────────────────────────────────┘
--->
+## 📱 Screenshots
 
-| Home Dashboard | Analytics | Budgets | Settings |
-|:-:|:-:|:-:|:-:|
-| ![Home](docs/screenshots/home.png) | ![Analytics](docs/screenshots/analytics.png) | ![Budgets](docs/screenshots/budgets.png) | ![Settings](docs/screenshots/settings.png) | | Intro | Add Expense | Budget Planner | Settings |
-|:-:|:-:|:-:|:-:|
-| ![Intro](docs/screenshots/intro.png) | ![Add](docs/screenshots/add_expense.png) | ![Budget](docs/screenshots/budgets.png) | ![Settings](docs/screenshots/settings_currency.png) |
+### Onboarding & Auth
+<p align="center">
+  <img src="docs/screenshots/intro.png" width="23%" alt="Intro Screen"/>
+  &nbsp;
+  <img src="docs/screenshots/login.png" width="23%" alt="Login"/>
+  &nbsp;
+  <img src="docs/screenshots/signup.png" width="23%" alt="Sign Up"/>
+</p>
+
+### Home & Transactions
+<p align="center">
+  <img src="docs/screenshots/home.png" width="23%" alt="Home Dashboard"/>
+  &nbsp;
+  <img src="docs/screenshots/add_expense.png" width="23%" alt="Add Expense"/>
+  &nbsp;
+  <img src="docs/screenshots/add_expense_2.png" width="23%" alt="Recurring Transaction"/>
+</p>
+
+### Budget & Analytics
+<p align="center">
+  <img src="docs/screenshots/budgets.png" width="23%" alt="Budget Planner"/>
+  &nbsp;
+  <img src="docs/screenshots/budget_modal.png" width="23%" alt="Set Category Limit"/>
+  &nbsp;
+  <img src="docs/screenshots/analytics.png" width="23%" alt="Spending Insights"/>
+</p>
+
+### Settings & Export
+<p align="center">
+  <img src="docs/screenshots/settings.png" width="23%" alt="Settings"/>
+  &nbsp;
+  <img src="docs/screenshots/settings_currency.png" width="23%" alt="Multi-Currency"/>
+  &nbsp;
+  <img src="docs/screenshots/export.png" width="23%" alt="CSV Export"/>
+</p>
 
 </div>
 
